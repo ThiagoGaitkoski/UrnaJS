@@ -150,6 +150,15 @@ body{
     font-weight: bold;
 }
 
+.aviso-fim{
+    font-size: 70px;
+    font-weight: bold;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .d-2{
     height: 50px;
     font-size: 14px;
