@@ -145,7 +145,10 @@ body{
     font-size: 12px;
 }
 
-
+.aviso-grande{
+    font-size: 40px;
+    font-weight: bold;
+}
 
 .d-2{
     height: 50px;
